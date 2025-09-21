@@ -13,7 +13,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>[]</p>Hello. My name is Steve A. I am a web developer from Santa Rosa, CA
         <p>
-          (This is a sample website - you’ll be building a site like this in{' '}
+          (это блог телеканала «Правда»{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
       </section>
